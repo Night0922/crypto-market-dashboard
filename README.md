@@ -30,7 +30,7 @@ Node.js 20.19+ or 22.12+ and npm.
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-market-dashboard.git
+git clone https://github.com/Night0922/crypto-market-dashboard.git
 cd crypto-market-dashboard
 npm install
 npm run dev
